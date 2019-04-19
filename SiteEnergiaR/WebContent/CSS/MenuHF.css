@@ -22,12 +22,16 @@ ul li a{
 
 
 .logo img {
-  float: left;
-  width: 60px;
-  height: 60px;
-  
+  float: none;
+  width: 100px;
+  height: 100px;
 }
 
+.img_home img {
+  float: right;
+  width: 25%;
+  height: 25%;
+}
 .trocaCor {
   margin-top:5px;
   width:100%;
