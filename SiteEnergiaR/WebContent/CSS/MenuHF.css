@@ -22,9 +22,11 @@ ul li a{
 
 
 .logo img {
-  float: none;
-  width: 100px;
-  height: 100px;
+
+  margin-left: 30px;
+  float: left;
+  width: 56px;
+  height: 56px;
 }
 
 .img_home img {
@@ -35,8 +37,9 @@ ul li a{
 .trocaCor {
   margin-top:5px;
   width:100%;
-  height:65%;
-
+  height:265px;
+  
+  margin-bottom: 15px;
 }
 
 .trocaCor2 {
@@ -44,7 +47,8 @@ ul li a{
   padding: 10px;
   color: white;
   width:100%;
-  height:65%;
+  height:265px;
   background-color: #048042;
-  float: left;
+  margin-bottom: 15px;
+
 }
