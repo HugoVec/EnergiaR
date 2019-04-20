@@ -1,25 +1,29 @@
-.img_solar img {
-  float: right;
-  width: 15%;
-  height: 15%;
-}
+
   #solar_1 {
+    float:right;
+    width:30%;
+    height:30%;
+  }
+  #solar_2 {
     float:;
     width:;
     height:;
   }
-.trocaCor {
-  margin-top: 5px;
-  height: 265px;
-  margin-bottom: 15px;
-}
-
-.trocaCor2 {
-  margin: -8px;
-  padding: 10px;
-  color: white;
-  height:265px;
-  background-color: #048042;
-  margin-bottom: 15px;
-
-}
+  #solar_3 {
+    float:;
+    width:;
+    height:;
+  }
+  #solar_4 {
+    float:left;
+    width:20%;
+    height:80%;
+    margin-right: 20px
+  }
+  #solar_5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 65%;
+  }
