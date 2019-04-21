@@ -1,6 +1,6 @@
 .trocaCor {
-  padding-left: 8%;
-  padding-right: 8%;
+  padding-left: 12%;
+  padding-right: 12%;
   margin-top: 5px;
   height: 265px;
   margin-bottom: 15px;
@@ -13,26 +13,49 @@
   height:265px;
   background-color: #048042;
   margin-bottom: 15px;
-
+  text-align: right;
+  padding-left: 12%;
+  padding-right: 12%;
 }
 
 h1 {
   font-size: 24px;
-  font-family: "Arial Black", Gadget;
+  font-family: 'Open Sans', sans-serif;
 }
 
-p.a {
+p.a1 {
   font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
 }
 
-p.b{
+p.b1 {
   font-size: 16px;
-  font-family: "Arial Black", Gadget;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+p.a2 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+}
+
+p.b2 {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
 }
 
 #Geotermica_1 {
   float: right;
   width:40%;
   height:85%;
+}
+
+#Geotermica_2 {
+  padding-top: 7px;
+  float: left;
+  width:40%;
+  height:95%;
 }
