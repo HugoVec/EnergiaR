@@ -1,4 +1,5 @@
 .trocaCor {
+  padding-top: 4%;
   padding-left: 12%;
   padding-right: 12%;
   margin-top: 5px;
@@ -18,9 +19,19 @@
   padding-right: 12%;
 }
 
+.trocaCor3 {
+  margin: -8px;
+  padding: 10px;
+  height:395px;
+  background-color: #f0f0f0;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
 h1 {
   font-size: 24px;
   font-family: 'Open Sans', sans-serif;
+  padding-bottom: 15px;
 }
 
 p.a1 {
@@ -29,8 +40,8 @@ p.a1 {
   text-align: left;
 }
 
-p.b1 {
-  font-size: 16px;
+b.b1 {
+  font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
@@ -41,10 +52,58 @@ p.a2 {
   text-align: right;
 }
 
-p.b2 {
-  font-size: 16px;
+b.b2 {
+  font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: right;
+}
+
+p.a3 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+b.b3 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+p.a4.1 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+b.b4.1 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+p.a4.2 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+}
+
+b.b4.2 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+}
+
+p.a5 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+b.b5 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
 }
 
 #Geotermica_1 {
