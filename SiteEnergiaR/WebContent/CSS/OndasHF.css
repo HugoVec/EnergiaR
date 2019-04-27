@@ -1,0 +1,57 @@
+
+#onda1 {
+  float: left;
+  width:40%;
+  height:95%;
+  margin-right: 5%;
+  margin-left: 1px;
+}
+
+#onda2 {
+  float: right;
+  width:40%;
+  height:95%;
+  margin-right: 1px;
+  margin-left: 5%;
+}
+
+
+h1 {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 5px;
+
+}
+
+div b {
+  font-size: 17px;
+}
+
+ul {
+  background-color: white;
+}
+
+
+.trocaCor {
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+}
+
+.terceiraDiv {
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+  margin-left: 30%;
+}
+
+.trocaCor2 {
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+}
