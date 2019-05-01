@@ -40,7 +40,7 @@ p.a1 {
   text-align: left;
 }
 
-b.b1 {
+p.b1 {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
@@ -49,13 +49,13 @@ b.b1 {
 p.a2 {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 
-b.b2 {
+p.b2 {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
-  text-align: right;
+  text-align: left;
 }
 
 p.a3 {
@@ -64,34 +64,22 @@ p.a3 {
   text-align: left;
 }
 
-b.b3 {
+p.b3 {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
 
-p.a4.1 {
+p.a4 {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
 }
 
-b.b4.1 {
+p.b4 {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-}
-
-p.a4.2 {
-  font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: right;
-}
-
-b.b4.2 {
-  font-size: 17px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: right;
 }
 
 p.a5 {
@@ -100,7 +88,7 @@ p.a5 {
   text-align: left;
 }
 
-b.b5 {
+p.b5 {
   font-size: 17px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
@@ -117,4 +105,21 @@ b.b5 {
   float: left;
   width:40%;
   height:95%;
+  padding-right:2%;
+}
+
+#Geotermica_3 {
+  padding-top: 18px;
+  float: right;
+  width:20%;
+  height:70%;
+  padding-right:2%;
+}
+
+#Geotermica_6 {
+  padding-top: 18px;
+  float: right;
+  width:20%;
+  height:70%;
+  padding-right:2%;
 }
