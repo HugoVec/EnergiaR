@@ -11,7 +11,7 @@
   margin: -8px;
   padding: 10px;
   color: white;
-  height:265px;
+  height:295px;
   background-color: #048042;
   margin-bottom: 15px;
   text-align: right;
@@ -101,7 +101,7 @@ p.b5 {
 }
 
 #Geotermica_2 {
-  padding-top: 7px;
+  padding-top: 22px;
   float: left;
   width:40%;
   height:95%;
@@ -114,6 +114,24 @@ p.b5 {
   width:20%;
   height:70%;
   padding-right:2%;
+}
+
+#Geotermica_4 {
+  padding-top: 6px;
+  float: left;
+  width:20%;
+  height:40%;
+  padding-right:2%;
+}
+
+#Geotermica_5 {
+  margin-top: 34px;
+  margin-right: 20px;
+  float: left;
+  width:16%;
+  height:34%;
+  padding-right:2%;
+  padding-left: 2%;
 }
 
 #Geotermica_6 {
