@@ -60,7 +60,7 @@ p.b1{
 
 
 h3.tituloDiv2{
-  margin-top: 8%;
+  margin-top: 5%;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: right;
@@ -183,68 +183,66 @@ div.movLista {
   margin-right: 1%;
 }
 
-#PEMFC {
+#ccmpp {
   margin-right: 15%;
-  padding-left: 50px;
-  padding-top: 7px;
+  padding-left: 50%;
+  padding-top: 0%;
   float: right;
-  width:70%;
-  height:70%;
+  width:90%;
+  height:90%;
 }
 
-#AFC {
-  margin-right: 25%;
-  padding-left: 50px;
-  padding-top: 7px;
-  float: right;
-  width:50%;
-  height:70%;
-}
-
-#DMFC {
+#cca {
   margin-right: 15%;
-  padding-left: 50px;
-  padding-top: 10%;
+  padding-left: 50%;
+  padding-top: 0%;
   float: right;
-  width:75%;
-  height:75%;
+  width:90%;
+  height:90%;
 }
 
-#PAFC {
-  margin-right: 25%;
-  padding-left: 50px;
-  padding-top: 10%;
+#ccos {
+  margin-right: 15%;
+  padding-left: 50%;
+  padding-top: 0%;
   float: right;
-  width:60%;
-  height:60%;
+  width:90%;
+  height:90%;
 }
 
-#MCFC {
-  margin-right: 25%;
-  padding-left: 50px;
-  padding-top: 10%;
-  float: right;
-  width:60%;
-  height:60%;
+#ccaf {
+  margin-right: 5%;
+  padding-left: 20%;
+  padding-top: 0%;
+  float: left;
+  width:90%;
+  height:90%;
 }
 
-#SOFC {
-  margin-right: 25%;
-  padding-left: 50px;
-  padding-top: 10%;
-  float: right;
-  width:60%;
-  height:60%;
+
+#cccf {
+  margin-right: 55%;
+  padding-left: 20%;
+  padding-top: 0%;
+  float: left;
+  width:90%;
+  height:90%;
+
 }
+
+
+
+
 
 
 #usina {
+  margin-top: -2%;
   margin-right: -10%;
   padding-left: 50px;
   padding-top: 7px;
   float: right;
-  width:40%;
-  height:85%;
+  width:55%;
+  height:130%;
 }
 
 #clicoh2o {
