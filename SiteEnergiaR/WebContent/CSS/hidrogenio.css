@@ -48,7 +48,7 @@ div.trocaCor3 {
   background-color: #f0f0f0;
   padding-left: 12%;
   padding-right: 12%;
-  padding-bottom: 20%;
+  padding-bottom: 20.8%;
 }
 
 h1 {
@@ -313,4 +313,13 @@ p.textoCelulas {
   float: right;
   width:40%;
   height:85%;
+}
+
+#sustentavel {
+  margin-left: -3%;
+  padding-left: 05%;
+  padding-top:0%;
+  float: center;
+  width:90%;
+  height:80%;
 }
