@@ -5,6 +5,14 @@ ul {
   margin-bottom: 9px;
 }
 
+
+h1 {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 15px;
+
+}
+
 li {
   display: inline;
 }
@@ -36,8 +44,11 @@ ul li a{
 }
 
 .trocaCor {
-  margin-top:5px;
-  height:265px;
+  padding-top: 4%;
+  padding-left: 12%;
+  padding-right: 12%;
+  margin-top: 5px;
+  height: 265px;
   margin-bottom: 15px;
 }
 
@@ -45,16 +56,21 @@ ul li a{
   margin: -8px;
   padding: 10px;
   color: white;
-  height:265px;
+  height:295px;
   background-color: #048042;
   margin-bottom: 15px;
+  text-align: right;
+  padding-left: 12%;
+  padding-right: 12%;
 }
 
 .trocaCor3 {
   margin: -8px;
   padding: 10px;
-  height:265px;
+  height:395px;
   background-color: #f0f0f0;
+  padding-left: 12%;
+  padding-right: 12%;
 }
 
 footer {

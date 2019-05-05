@@ -1,0 +1,349 @@
+
+
+/* ----------------------------------------------------------------CSS PAGINA APP---------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------CSS BIOMASSA---------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------CSS EOLICA----------------------------------------------------------------*/
+
+/* ----------------------------------------------------------------CSS FORMULARIO---------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------CSS GEOTERMICA---------------------------------------------------------------- */
+
+h1 {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 15px;
+}
+
+.a1 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+.b1 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+#Geotermica_1 {
+  float: right;
+  width:40%;
+  height:85%;
+}
+
+#Geotermica_2 {
+  padding-top: 22px;
+  float: left;
+  width:40%;
+  height:95%;
+  padding-right:2%;
+}
+
+#Geotermica_3 {
+  padding-top: 18px;
+  float: right;
+  width:20%;
+  height:70%;
+  padding-right:2%;
+}
+
+#Geotermica_4 {
+  padding-top: 6px;
+  float: left;
+  width:20%;
+  height:40%;
+  padding-right:2%;
+}
+
+#Geotermica_5 {
+  margin-top: 34px;
+  margin-right: 20px;
+  float: left;
+  width:16%;
+  height:34%;
+  padding-right:2%;
+  padding-left: 2%;
+}
+
+#Geotermica_6 {
+  padding-top: 18px;
+  float: right;
+  width:20%;
+  height:70%;
+  padding-right:2%;
+}
+
+/* ----------------------------------------------------------------CSS HIDROGENIO---------------------------------------------------------------- */
+
+.introducao {
+  padding-top: 4%;
+  padding-bottom: 10%;
+  padding-left: 12%;
+  padding-right: 12%;
+  margin-top: 0px;
+  height: 265px;
+  margin-bottom: 0px;
+}
+
+.tiposCelulas {
+  padding-top: 2%;
+  padding-bottom: 20%;
+  padding-left: 12%;
+  padding-right: 12%;
+  margin-top: 10px;
+  height: 265px;
+  margin-bottom: 55%;
+}
+
+.textoCor1 {
+  padding-right: 0%;
+  padding-left: 5%;
+}
+
+.div2 {
+  margin-top: 2%;
+  padding-top: 0%;
+  color: white;
+  height: 50%;
+  background-color: #048042;
+  margin-bottom: 3%;
+  text-align: right;
+  padding-left: 12%;
+  padding-right: 0%;
+  padding-bottom: 9%;
+}
+
+.divCelulas {
+  margin: -8px;
+  padding: 5%;
+  color: white;
+  height: 50%;
+  background-color: #048042;
+  padding-bottom: 15%;
+  text-align: left;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.curiosidades {
+  margin: -8px;
+  padding-top: 10px;
+  background-color: #f0f0f0;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-bottom: 18.8%;
+}
+
+.txt1 {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  padding-right: 60%;
+}
+
+.txt2 {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+.tituloDiv2{
+  margin-top: 5%;
+  font-size: 22px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: right;
+  padding-right: 15%;
+  padding-top: 8%;
+}
+
+.textoDiv2{
+  margin-top: 3%;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding-left: 55%;
+  padding-right: 5%;
+  line-height: 290%;
+}
+
+.Titulocelulas {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #DCDCDC;
+}
+
+.ccmpp {
+  margin-right: -5%;
+  padding-left: -5%;
+  padding-top: 0%;
+  float: center;
+  width:95%;
+  height:115%;
+}
+
+.ccaf {
+  margin-right: 15%;
+  padding-left: 15%;
+  padding-top: 0%;
+  float: center;
+  width:95%;
+  height:115%;
+}
+
+#usina {
+  margin-top: -2%;
+  margin-right: -10%;
+  padding-left: 50px;
+  padding-top: 7px;
+  float: right;
+  width:55%;
+  height:130%;
+}
+
+#clicoh2o {
+  margin-left: -3%;
+  padding-left: 10px;
+  padding-top: 1%;
+  float: left;
+  width:50%;
+  height:130%;
+}
+
+#sustentavel {
+  margin-left: -3%;
+  padding-left: 7%;
+  padding-top:4%;
+  float: center;
+  width:90%;
+  height:100%;
+}
+
+
+/* ----------------------------------------------------------------CSS HOME---------------------------------------------------------------- */
+
+/* ----------------------------------------------------------------CSS ONDAS---------------------------------------------------------------- */
+
+#onda1 {
+  float: left;
+  width:40%;
+  height:95%;
+  margin-right: 5%;
+  margin-left: 1px;
+}
+
+#onda2 {
+  float: right;
+  width:40%;
+  height:95%;
+  margin-right: 1px;
+  margin-left: 5%;
+}
+
+#onda3 {
+  float: right;
+  width:40%;
+  height:95%;
+  margin-right: 1px;
+  margin-left: 5%;
+
+}
+
+.first {
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+}
+
+.second {
+  margin: -8px;
+  color: white;
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+  background-color: #048042;
+}
+
+.terceiraDiv {
+  padding-left: 8%;
+  padding-right: 12%;
+  height: 265px;
+  margin-bottom: 3%;
+
+}
+
+.quartaDiv {
+  padding-top: 3%;
+  padding-left: 8%;
+  padding-right: 12%;
+  margin: -8px;
+  height:265px;
+  background-color: #f0f0f0;
+
+}
+
+
+/* ----------------------------------------------------------------CSS SOLAR---------------------------------------------------------------- */
+
+
+  #solar_1 {
+    float: right;
+    width:30%;
+    height:30%;
+  }
+
+  #solar_4 {
+    float:left;
+    width:25%;
+    height: 60%;
+  }
+
+  #solar_5 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 55%;
+
+  }
+
+  #solar_6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 100%;
+  }
+
+  #trocaCor_Solar1 {
+    margin: -8px;
+    padding: 10px;
+    color: black;
+    height:265px;
+    background-color: whyte;
+    margin-bottom: 0px;
+  }
+
+  .trocaCor_Solar2 {
+    margin: -8px;
+    padding: 10px;
+    height: 350px;
+    color: white;
+    background-color: #110f11;
+  }
+
+  #trocaCor_Solar3 {
+    margin: -8px;
+    padding: 10px;
+    color: white;
+    height:400px;
+    background-color: #048042;
+    margin-bottom: 15px;
+  }
