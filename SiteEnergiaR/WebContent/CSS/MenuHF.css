@@ -1,3 +1,7 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 ul {
   background-color: #007235;
   padding: 28px;
@@ -5,12 +9,10 @@ ul {
   margin-bottom: 9px;
 }
 
-
 h1 {
   font-size: 24px;
   font-family: 'Open Sans', sans-serif;
   padding-bottom: 15px;
-
 }
 
 li {
