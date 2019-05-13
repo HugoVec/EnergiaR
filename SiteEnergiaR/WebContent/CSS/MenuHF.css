@@ -95,6 +95,22 @@ footer {
   background-color: black;
 }
 
+.copy{
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding-top: 70px;
+}
+
+#logoFooter{
+  margin-left: 60px;
+  margin-right: 50px;
+  margin-top: 40px;
+  float: left;
+  width: 160px;
+  height: 86px;
+}
+
 /** ------------------------------------------- SLIDESHOW --------------------------------------- **/
 
 
