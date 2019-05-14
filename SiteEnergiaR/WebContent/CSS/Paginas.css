@@ -221,6 +221,30 @@
 
 /* ----------------------------------------------------------------CSS HOME---------------------------------------------------------------- */
 
+.img_home{
+  float: right;
+  width: 740px;
+  max-height: 700px;
+}
+
+.div1_home {
+  padding-top: 8%;
+  padding-left: 12%;
+  height: 185px;
+}
+
+.div2_home {
+  color: white;
+  height:295px;
+  background-color: #048042;
+  margin-top: 5%;
+
+}
+
+
+
+
+
 /* ----------------------------------------------------------------CSS ONDAS---------------------------------------------------------------- */
 
 #onda1 {
@@ -257,7 +281,7 @@
 }
 
 .second {
-  margin: -8px;
+
   color: white;
   padding-top: 3%;
   padding-left: 8%;
@@ -279,7 +303,7 @@
   padding-top: 3%;
   padding-left: 8%;
   padding-right: 12%;
-  margin: -8px;
+
   height:265px;
   background-color: #f0f0f0;
 

@@ -1,12 +1,17 @@
+
+
 body {
   font-family: 'Open Sans', sans-serif;
+  position: relative;
+  margin: 0;
 }
 
 ul {
+
+
   background-color: #007235;
   padding: 28px;
-  margin: -8px;
-  margin-bottom: 9px;
+
 }
 
 ul li a:hover:not(.active){
@@ -17,9 +22,11 @@ h1 {
   font-size: 24px;
   font-family: 'Open Sans', sans-serif;
   padding-bottom: 15px;
+
 }
 
 li {
+
   display: inline;
 }
 
@@ -36,7 +43,7 @@ ul li a{
 .active {
   background-color: #2E8B57;
   padding: 28px;
-  margin: -8px;
+
   margin-bottom: 9px;
 }
 
@@ -51,13 +58,8 @@ ul li a{
   height: 56px;
 }
 
-.img_home img {
-  float: right;
-  width: 25%;
-  height: 25%;
-}
-
 .trocaCor {
+
   padding-top: 4%;
   padding-left: 12%;
   padding-right: 12%;
@@ -67,7 +69,6 @@ ul li a{
 }
 
 .trocaCor2 {
-  margin: -8px;
   padding: 10px;
   color: white;
   height:295px;
@@ -79,7 +80,8 @@ ul li a{
 }
 
 .trocaCor3 {
-  margin: -8px;
+
+
   padding: 10px;
   height:395px;
   background-color: #f0f0f0;
@@ -89,11 +91,12 @@ ul li a{
 
 footer {
   color: white;
-  margin: -8px;
+
   bottom:0;
   height: 165px;
   background-color: black;
 }
+
 
 .copy{
   font-size: 12px;
@@ -128,7 +131,6 @@ footer {
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
-  width: 100%;
   text-align: center;
 }
 
