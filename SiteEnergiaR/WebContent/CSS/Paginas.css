@@ -312,6 +312,31 @@
 
 /* ----------------------------------------------------------------CSS SOLAR---------------------------------------------------------------- */
 
+#Solar_Home1 {
+ float: right;
+ width: 25%;
+ height: 110%;
+}
+
+.Botao_Home1 {
+float: left;
+width: 20%;
+height: 50%;
+}
+
+.Botao_Home2 {
+float: right;
+width: 20%;
+height: 50%;
+}
+
+#Botao_Home2 {
+float: right;
+width: 20%;
+height: 50%;
+}
+
+
 .primeiraDiv {
   padding-top: 3%;
   padding-left: 12%;
