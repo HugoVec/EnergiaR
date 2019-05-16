@@ -277,6 +277,7 @@
   background-color: #048042;
   text-align: right;
   padding-left: 12%;
+  padding-bottom: 3%;
 }
 
 h3.textoDiv2{
@@ -329,7 +330,35 @@ h3.textoDiv2{
   padding-right: 12%;
 }
 
-.Titulocelulas {
+.Titulocelulas1 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #DCDCDC;
+}
+
+.Titulocelulas2 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #DCDCDC;
+}
+
+.Titulocelulas3 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #DCDCDC;
+}
+
+.Titulocelulas4 {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  color: #DCDCDC;
+}
+
+.Titulocelulas5 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
