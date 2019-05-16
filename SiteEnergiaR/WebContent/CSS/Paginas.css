@@ -95,6 +95,36 @@
 
 /* ----------------------------------------------------------------CSS BIOMASSA---------------------------------------------------------------- */
 
+.div2Biomassa {
+  padding: 10px;
+  height:495px;
+  background-color: #f0f0f0;;
+  margin-bottom: 15px;
+  text-align: right;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+
+#biomassa_4 {
+  padding-top: 6px;
+  float: left;
+  width:20%;
+  height:30%;
+  padding-right:2%;
+}
+
+#biomassa_5 {
+  padding-top: 10px;
+  padding-left: 26px;
+  float: left;
+  width:16%;
+  height:25%;
+  padding-right:2%;
+  }
+
+
+
 /* ----------------------------------------------------------------CSS EOLICA----------------------------------------------------------------*/
 
 
