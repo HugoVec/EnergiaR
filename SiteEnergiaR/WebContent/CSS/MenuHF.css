@@ -107,8 +107,24 @@ footer {
 .copyright{
   font-size: 10px;
   font-family: 'Open Sans', sans-serif;
-  padding-top: 5%;
+  padding-top: 4%;
   text-align: left;
+}
+
+a{
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 /** ------------------------------------------- SLIDESHOW --------------------------------------- **/
