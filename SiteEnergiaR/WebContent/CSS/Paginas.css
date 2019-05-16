@@ -2,10 +2,9 @@
 
 /* ----------------------------------------------------------------CSS PAGINA APP---------------------------------------------------------------- */
 .fundo {
+  background-color: #DCDCDC;
   margin-top: -15px;
-  margin-left: -9px;
-  margin-right: -9px;
-  padding-bottom: 15%;
+  padding-bottom: 25%;
 }
 
 .appIntroducao {
@@ -66,10 +65,6 @@
   text-align: left;
 }
 
-.app2 {
-  padding-bottom: 5%;
-}
-
 #game2 {
   padding-right: 150px;
   padding-left: 35px;
@@ -91,6 +86,24 @@
   text-align: right;
 }
 
+.app3 {
+  padding-top: 200px;
+}
+
+.subtrofeu {
+  padding-left: 250px;
+  text-align: right;
+  padding-top: 350px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#trofeu {
+  padding-right: 550px;
+  padding-top: 250px;
+  width:15%;
+  height:25%;
+  float: right;
+}
 
 
 /* ----------------------------------------------------------------CSS BIOMASSA---------------------------------------------------------------- */
@@ -240,67 +253,15 @@
 .introducao {
   padding-top: 4%;
   padding-bottom: 10%;
-  padding-left: 12%;
-  padding-right: 12%;
-  margin-top: 0px;
-  height: 265px;
-  margin-bottom: 0px;
-}
+  padding-left: 15%;
+  padding-right: 25%;
 
-.tiposCelulas {
-  padding-top: 2%;
-  padding-bottom: 20%;
-  padding-left: 12%;
-  padding-right: 12%;
-  margin-top: 10px;
-  height: 265px;
-  margin-bottom: 55%;
-}
-
-.textoCor1 {
-  padding-right: 0%;
-  padding-left: 5%;
-}
-
-.div2 {
-  margin-top: 2%;
-  padding-top: 0%;
-  color: white;
-  height: 50%;
-  background-color: #048042;
-  margin-bottom: 3%;
-  text-align: right;
-  padding-left: 12%;
-  padding-right: 0%;
-  padding-bottom: 9%;
-}
-
-.divCelulas {
-  margin: -8px;
-  padding: 5%;
-  color: white;
-  height: 50%;
-  background-color: #048042;
-  padding-bottom: 15%;
-  text-align: left;
-  padding-left: 12%;
-  padding-right: 12%;
-}
-
-.curiosidades {
-  margin: -8px;
-  padding-top: 10px;
-  background-color: #f0f0f0;
-  padding-left: 12%;
-  padding-right: 12%;
-  padding-bottom: 18.8%;
 }
 
 .txt1 {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  padding-right: 60%;
 }
 
 .txt2 {
@@ -309,23 +270,51 @@
   text-align: left;
 }
 
-.tituloDiv2{
-  margin-top: 5%;
-  font-size: 22px;
-  font-family: 'Open Sans', sans-serif;
+.div2 {
+  color: white;
+  background-color: #048042;
   text-align: right;
-  padding-right: 15%;
-  padding-top: 8%;
+  padding-left: 12%;
+  padding-bottom: 8%;
+}
+
+h3.textoDiv2{
+  font-size: 25px;
+  padding-top: 3%;
 }
 
 .textoDiv2{
-  margin-top: 3%;
+  margin-top: 1px;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
-  padding-left: 55%;
-  padding-right: 5%;
-  line-height: 290%;
+  padding-left: 50%;
+  padding-right: 10%;
+  line-height: 200%;
+}
+
+.tiposCelulas {
+  padding-top: 2%;
+  padding-bottom: 20%;
+  padding-left: 12%;
+  padding-right: 12%;
+  margin-top: 10px;
+  height: 50%;
+  margin-bottom: 40%;
+}
+
+.textoCor1 {
+  padding-right: 0%;
+  padding-left: 5%;
+}
+
+.divCelulas {
+  padding-top: 2%;
+  color: white;
+  background-color: #048042;
+  padding-bottom: 10%;
+  padding-left: 12%;
+  padding-right: 12%;
 }
 
 .Titulocelulas {
@@ -334,6 +323,22 @@
   text-align: left;
   color: #DCDCDC;
 }
+
+.textoCelulas {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+
+.curiosidades {
+  padding-top: 10px;
+  background-color: #DCDCDC;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-bottom: 8%;
+}
+
+
 
 .ccmpp {
   margin-right: -5%;
@@ -354,31 +359,27 @@
 }
 
 #usina {
-  margin-top: -2%;
-  margin-right: -10%;
   padding-left: 50px;
   padding-top: 7px;
   float: right;
-  width:55%;
-  height:130%;
+  width:40%;
+  height:25%;
 }
 
 #clicoh2o {
-  margin-left: -3%;
   padding-left: 10px;
-  padding-top: 1%;
+  padding-top: 1.5%;
   float: left;
-  width:50%;
-  height:130%;
+  width:40%;
+  height:50%;
 }
 
 #sustentavel {
-  margin-left: -3%;
-  padding-left: 7%;
+  padding-left: 35%;
   padding-top:4%;
   float: center;
-  width:90%;
-  height:100%;
+  width:30%;
+  height:30%;
 }
 
 
