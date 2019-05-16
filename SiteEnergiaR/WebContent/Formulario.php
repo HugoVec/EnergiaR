@@ -92,7 +92,7 @@
 		</div>
 
 		<h1><center>Deseja receber mais informações sobre essas energias Inovadoras?</center></h1>
-		<h2><center>Preencha as informações a baixo!</center></h2>
+		<h2><center>Preencha as informações a baifsddddddddddddxo!</center></h2>
 
 		<center>
 			<div  class="trocaCor">
@@ -101,14 +101,14 @@
 
 					<form action="index.php" method="post">
 						<label for="input1" class="formu">Nome: </label>
-						<input style="border-radius:10px; padding:3px" type="text" id="input1" size="30px" required><br>
+						<input name="Nome" style="border-radius:10px; padding:3px" type="text" id="input1" size="30px" required><br>
 
 						<label for="input2" class="formu">Telefone: </label>
 						<input style="border-radius:10px; padding:3px" type="text" id="input2" size="30px" required><br>
 
 
 						<label for="input3" class="formu" required="true">Email: </label>
-						<input style="border-radius:10px; padding:3px" type="email" placeholder="nome@email.com" id="input3" size="30px" required><br>
+						<input name="Email" style="border-radius:10px; padding:3px" type="email" placeholder="nome@email.com" id="input3" size="30px" required><br>
 
 						<input class="botaoForm" type="submit" value="Enviar">
 					</form>
