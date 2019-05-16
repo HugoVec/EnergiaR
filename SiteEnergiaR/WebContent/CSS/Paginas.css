@@ -97,6 +97,48 @@
 
 /* ----------------------------------------------------------------CSS EOLICA----------------------------------------------------------------*/
 
+
+.div2Eolica {
+  padding: 10px;
+  height:295px;
+  background-color: #f0f0f0;;
+  margin-bottom: 15px;
+  text-align: right;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
+.div3Eolica {
+  padding-top: 4%;
+  padding-left: 12%;
+  padding-right: 12%;
+  margin-top: 5px;
+  height: 365px;
+  margin-bottom: 15px;
+}
+
+.div4Eolica {
+  margin-bottom: -12px;
+  padding: 10px;
+  height:495px;
+  background-color: #f0f0f0;
+  padding-left: 12%;
+  padding-right: 12%;
+
+}
+
+#Eolica1 {
+  padding-top: 22px;
+  float: left;
+  width:40%;
+  height:85%;
+  padding-right:2%;
+  margin-bottom: 20px;
+}
+
+
+
+
 /* ----------------------------------------------------------------CSS FORMULARIO---------------------------------------------------------------- */
 
 /* ----------------------------------------------------------------CSS GEOTERMICA---------------------------------------------------------------- */
