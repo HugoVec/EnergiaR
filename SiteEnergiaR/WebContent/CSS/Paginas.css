@@ -258,6 +258,7 @@
   padding-bottom: 10%;
   padding-left: 20%;
   padding-right: 20%;
+  height: 30%;
 }
 
 .txtIntroducao {
@@ -278,6 +279,7 @@
   text-align: right;
   padding-left: 12%;
   padding-bottom: 3%;
+  height: 50%;
 }
 
 h3.textoDiv2{
@@ -292,7 +294,7 @@ h3.textoDiv2{
   text-align: center;
   padding-left: 50%;
   padding-right: 10%;
-  line-height: 200%;
+  line-height: 130%;
 }
 
 .tiposCelulas {
@@ -330,35 +332,35 @@ h3.textoDiv2{
   padding-right: 12%;
 }
 
-.Titulocelulas1 {
+#Titulocelulas1 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #DCDCDC;
 }
 
-.Titulocelulas2 {
+#Titulocelulas2 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #DCDCDC;
 }
 
-.Titulocelulas3 {
+#Titulocelulas3 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #DCDCDC;
 }
 
-.Titulocelulas4 {
+#Titulocelulas4 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
   color: #DCDCDC;
 }
 
-.Titulocelulas5 {
+#Titulocelulas5 {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
@@ -383,16 +385,16 @@ h3.textoDiv2{
   padding-left: 5%;
   padding-bottom: 10%;
   float: right;
-  width:30%;
-  height:30%;
+  width:35%;
+  height:90%;
 }
 
 #clicoh2o {
   padding-left: 10px;
-  padding-top: 15px;
+  padding-top: 35px;
   float: left;
-  width:40%;
-  height:50%;
+  width:35%;
+  height:90%;
 }
 
 #sustentavel {
