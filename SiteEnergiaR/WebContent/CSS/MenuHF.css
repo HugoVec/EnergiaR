@@ -91,26 +91,24 @@ ul li a{
 
 footer {
   color: white;
-
   height: 165px;
   background-color: black;
 }
 
-
-.copy{
-  font-size: 12px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  padding-top: 70px;
-}
-
 #logoFooter{
-  margin-left: 60px;
-  margin-right: 50px;
-  margin-top: 40px;
+  padding-left: 8%;
+  margin-top: 45px;
+  margin-right: 102px;
   float: left;
   width: 160px;
   height: 86px;
+}
+
+.copyright{
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  padding-top: 5%;
+  text-align: left;
 }
 
 /** ------------------------------------------- SLIDESHOW --------------------------------------- **/
