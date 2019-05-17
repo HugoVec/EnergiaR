@@ -90,21 +90,24 @@
 }
 
 .app3 {
-  padding-top: 200px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 20%;
+  height: 50%;
 }
 
 .subtrofeu {
-  padding-left: 250px;
+  padding-left: 25%;
   text-align: right;
-  padding-top: 350px;
+  padding-top: 190px;
   font-family: 'Open Sans', sans-serif;
 }
 
 #trofeu {
-  padding-right: 550px;
-  padding-top: 250px;
+  padding-right: 25%;
+  padding-top: 10%;
   width:15%;
-  height:25%;
+  height:45%;
   float: right;
 }
 
@@ -256,8 +259,8 @@
 .introducao {
   padding-top: 4%;
   padding-bottom: 10%;
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
   height: 30%;
 }
 
@@ -265,6 +268,7 @@
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
+  padding-right: 40%;
 }
 
 .tituloIntroducao {
@@ -284,18 +288,21 @@
 
 h3.textoDiv2{
   font-size: 25px;
-  padding-top: 3%;
+  padding-top: 6%;
+}
+
+#textoDiv2 {
+    padding-bottom: 20%;
+    line-height: 180%;
 }
 
 .textoDiv2{
-  margin-top: 1px;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  padding-left: 50%;
+  text-align: left;
+  padding-left: 38%;
   padding-right: 10%;
-  line-height: 130%;
-}
+  }
 
 .tiposCelulas {
   padding-top: 2%;
@@ -382,8 +389,9 @@ h3.textoDiv2{
 }
 
 #usina {
-  padding-left: 5%;
-  padding-bottom: 10%;
+  padding-top: 1%;
+  padding-left: 15%;
+  padding-bottom: 5%;
   float: right;
   width:35%;
   height:90%;
@@ -391,10 +399,10 @@ h3.textoDiv2{
 
 #clicoh2o {
   padding-left: 10px;
-  padding-top: 35px;
+  padding-top: 65px;
   float: left;
-  width:35%;
-  height:90%;
+  width:30%;
+  height:85%;
 }
 
 #sustentavel {
