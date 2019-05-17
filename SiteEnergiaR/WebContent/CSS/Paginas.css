@@ -428,8 +428,25 @@ h3.textoDiv2{
   padding-left: 12%;
 }
 
+.div3_home {
+  margin-bottom: -12px;
+  padding: 10px;
+  height:295px;
+  background-color: #f0f0f0;
+  padding-left: 12%;
+  padding-right: 12%;
+}
+
 .h1{
   text-align: center;
+}
+
+.titulo1{
+  padding-left: 465px;
+}
+
+.titulo2{
+  padding-left: 445px;
 }
 
 .botao1{
@@ -463,7 +480,7 @@ h3.textoDiv2{
 #home_1 {
   float: right;
   width:20%;
-  height:95%;
+  height:65%;
   margin-right: 210px;
 }
 
@@ -471,22 +488,22 @@ h3.textoDiv2{
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  padding-top: 3%;
+  padding-top: 2%;
   margin-left: 10px;
 }
 
 #home_2 {
   float: right;
   width:20%;
-  height:70%;
-  margin-right: 210px;
+  height:65%;
+  margin-right: 75px;
 }
 
 .textoHome_2 {
   font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
-  padding-top: 3%;
+  padding-top: 4%;
   margin-left: 10px;
 }
 
@@ -495,14 +512,6 @@ h3.textoDiv2{
   width:20%;
   height:95%;
   margin-right: 220px;
-}
-
-.textoHome_3 {
-  font-size: 14px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: left;
-  padding-top: 3%;
-  margin-left: 10px;
 }
 
 #home_4 {
@@ -522,8 +531,15 @@ h3.textoDiv2{
 #home_6 {
   float: right;
   width:15%;
-  height:65%;
-  margin-right: 220px;
+  height:50%;
+  margin-right: 75px;
+}
+
+#home_7 {
+  float: right;
+  width:25%;
+  height:105%;
+  margin-right: 205px;
 }
 
 /* ----------------------------------------------------------------CSS ONDAS---------------------------------------------------------------- */
