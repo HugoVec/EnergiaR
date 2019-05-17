@@ -30,7 +30,7 @@
 
           $mail = new PHPMailer();
 
-          $msj="Voce fede";
+          $msj="Olá $Nome! Fico feliz que tenha gostado do Site!";
 
 
           $mail->IsSMTP(); // enable SMTP
@@ -55,8 +55,6 @@
        } else {
           echo "Message has been sent";
        }
-
-
 
       ?>
 
