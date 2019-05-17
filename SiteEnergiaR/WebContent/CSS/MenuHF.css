@@ -9,10 +9,9 @@ body {
 }
 
 ul {
-
+  margin-top: -4px;
   background-color: #007235;
   padding: 28px;
-
 }
 
 ul li a:hover:not(.active){
@@ -133,27 +132,21 @@ a:hover {
 /* Slideshow container */
 .slideshow-container {
   position: relative;
-  margin: auto;
-  margin-bottom: 15px;
 }
 
 /* Caption text */
 .text {
   color: #f2f2f2;
   font-size: 25px;
-  padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
   text-align: center;
 }
 
 /* Number text (1/6 etc) */
 .numbertext {
   color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
+  font-size: 22px;
   position: absolute;
-  top: 0;
 }
 
 .imgSlide {
